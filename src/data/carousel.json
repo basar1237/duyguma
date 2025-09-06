@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200&h=600&fit=crop",
+    "title": "Profesyonel Diş Protezi Hizmetleri",
+    "description": "Modern teknoloji ve uzmanlıkla kaliteli diş protezi çözümleri sunuyoruz"
+  },
+  {
+    "id": "2",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=1200&h=600&fit=crop",
+    "title": "Kişiye Özel Protez Tasarımları",
+    "description": "Her hastanın ihtiyacına uygun özel tasarım protezler"
+  },
+  {
+    "id": "3",
+    "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=1200&h=600&fit=crop",
+    "title": "Gülüşünüzü Yeniden Tasarlayın",
+    "description": "Estetik ve fonksiyonel diş protezleri ile mükemmel gülümseme"
+  },
+  {
+    "id": "4",
+    "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=1200&h=600&fit=crop",
+    "title": "Uzman Diş Protez Teknikeri",
+    "description": "Marmara Üniversitesi mezunu deneyimli uzman kadromuzla hizmetinizdeyiz"
+  }
+]

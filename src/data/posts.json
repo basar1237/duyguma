@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "slug": "nextjs-ile-modern-web-uygulamalari",
+    "title": "Next.js ile Modern Web Uygulamaları Geliştirme",
+    "excerpt": "Next.js kullanarak performanslı ve SEO dostu web uygulamaları nasıl geliştirilir? Bu yazıda Next.js'in temel özelliklerini ve en iyi uygulamalarını keşfedelim.",
+    "content": "# Next.js ile Modern Web Uygulamaları Geliştirme\n\nNext.js, React tabanlı full-stack web uygulamaları geliştirmek için kullanılan popüler bir framework'tür. Bu yazıda Next.js'in temel özelliklerini ve en iyi uygulamalarını inceleyeceğiz.\n\n## Next.js'in Avantajları\n\n- **Server-Side Rendering (SSR)**: Daha iyi SEO ve performans\n- **Static Site Generation (SSG)**: Hızlı sayfa yüklemeleri\n- **API Routes**: Backend API'leri kolayca oluşturma\n- **File-based Routing**: Otomatik rota oluşturma\n- **TypeScript Desteği**: Tip güvenliği\n\n## Kurulum ve Yapılandırma\n\n```bash\nnpx create-next-app@latest my-app --typescript --tailwind --eslint\n```\n\n## En İyi Uygulamalar\n\n1. **Performans Optimizasyonu**\n2. **SEO Optimizasyonu**\n3. **Kod Organizasyonu**\n4. **Testing Stratejileri**\n\nBu yazıda Next.js ile modern web uygulamaları geliştirme konusunda detaylı bilgiler bulabilirsiniz.",
+    "author": "Lidya Teknoloji",
+    "publishedAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z",
+    "category": "web-gelistirme",
+    "tags": ["nextjs", "react", "typescript", "web-gelistirme"],
+    "featuredImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop",
+    "readingTime": 8,
+    "views": 1250,
+    "likes": 45,
+    "isPublished": true,
+    "seo": {
+      "title": "Next.js ile Modern Web Uygulamaları Geliştirme - Duyguma Blog",
+      "description": "Next.js kullanarak performanslı ve SEO dostu web uygulamaları nasıl geliştirilir? Bu yazıda Next.js'in temel özelliklerini ve en iyi uygulamalarını keşfedelim.",
+      "keywords": ["nextjs", "react", "typescript", "web geliştirme", "frontend"],
+      "ogImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "tailwindcss-ile-hizli-tasarim",
+    "title": "TailwindCSS ile Hızlı ve Modern Tasarım",
+    "excerpt": "TailwindCSS kullanarak hızlı ve responsive web tasarımları nasıl oluşturulur? Utility-first CSS framework'ünün avantajlarını ve kullanım örneklerini inceleyelim.",
+    "content": "# TailwindCSS ile Hızlı ve Modern Tasarım\n\nTailwindCSS, utility-first yaklaşımı ile hızlı ve responsive web tasarımları oluşturmanızı sağlayan modern bir CSS framework'üdür.\n\n## TailwindCSS'in Avantajları\n\n- **Utility-First**: Hızlı stil uygulama\n- **Responsive Design**: Kolay responsive tasarım\n- **Customizable**: Özelleştirilebilir tasarım sistemi\n- **Performance**: Optimize edilmiş CSS çıktısı\n- **Developer Experience**: Mükemmel geliştirici deneyimi\n\n## Kurulum\n\n```bash\nnpm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p\n```\n\n## Temel Kullanım\n\n```jsx\n<div className=\"bg-blue-500 text-white p-4 rounded-lg shadow-md\">\n  Merhaba TailwindCSS!\n</div>\n```\n\n## Responsive Tasarım\n\nTailwindCSS ile responsive tasarım çok kolaydır:\n\n```jsx\n<div className=\"w-full md:w-1/2 lg:w-1/3 p-4\">\n  Responsive Card\n</div>\n```\n\nBu yazıda TailwindCSS'in tüm özelliklerini ve en iyi uygulamalarını detaylı olarak inceleyeceğiz.",
+    "author": "Lidya Teknoloji",
+    "publishedAt": "2024-01-10T14:30:00Z",
+    "updatedAt": "2024-01-10T14:30:00Z",
+    "category": "tasarim",
+    "tags": ["tailwindcss", "css", "tasarim", "frontend"],
+    "featuredImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop",
+    "readingTime": 6,
+    "views": 890,
+    "likes": 32,
+    "isPublished": true,
+    "seo": {
+      "title": "TailwindCSS ile Hızlı ve Modern Tasarım - Duyguma Blog",
+      "description": "TailwindCSS kullanarak hızlı ve responsive web tasarımları nasıl oluşturulur? Utility-first CSS framework'ünün avantajlarını ve kullanım örneklerini inceleyelim.",
+      "keywords": ["tailwindcss", "css", "tasarım", "frontend", "responsive"],
+      "ogImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "typescript-ile-tip-guvenligi",
+    "title": "TypeScript ile Tip Güvenliği ve Daha İyi Kod",
+    "excerpt": "TypeScript kullanarak JavaScript projelerinizde tip güvenliği nasıl sağlanır? TypeScript'in avantajlarını ve pratik kullanım örneklerini keşfedelim.",
+    "content": "# TypeScript ile Tip Güvenliği ve Daha İyi Kod\n\nTypeScript, JavaScript'e tip güvenliği ekleyen güçlü bir programlama dilidir. Bu yazıda TypeScript'in temel özelliklerini ve avantajlarını inceleyeceğiz.\n\n## TypeScript'in Avantajları\n\n- **Tip Güvenliği**: Derleme zamanında hata yakalama\n- **Daha İyi IDE Desteği**: Otomatik tamamlama ve refactoring\n- **Daha İyi Dokümantasyon**: Tip tanımları ile kod dokümantasyonu\n- **Refactoring Güvenliği**: Güvenli kod değişiklikleri\n- **Ekip Çalışması**: Daha iyi kod anlaşılabilirliği\n\n## Temel Tip Tanımları\n\n```typescript\ninterface User {\n  id: number;\n  name: string;\n  email: string;\n  isActive: boolean;\n}\n\nfunction createUser(userData: User): User {\n  return {\n    ...userData,\n    id: Date.now()\n  };\n}\n```\n\n## Generic Types\n\n```typescript\nfunction identity<T>(arg: T): T {\n  return arg;\n}\n\nconst result = identity<string>(\"Hello TypeScript!\");\n```\n\n## Union Types\n\n```typescript\ntype Status = 'loading' | 'success' | 'error';\n\nfunction handleStatus(status: Status) {\n  switch (status) {\n    case 'loading':\n      return 'Yükleniyor...';\n    case 'success':\n      return 'Başarılı!';\n    case 'error':\n      return 'Hata oluştu!';\n  }\n}\n```\n\nBu yazıda TypeScript'in tüm özelliklerini ve en iyi uygulamalarını detaylı olarak inceleyeceğiz.",
+    "author": "Lidya Teknoloji",
+    "publishedAt": "2024-01-05T09:15:00Z",
+    "updatedAt": "2024-01-05T09:15:00Z",
+    "category": "programlama",
+    "tags": ["typescript", "javascript", "tip-guvenligi", "programlama"],
+    "featuredImage": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&h=400&fit=crop",
+    "readingTime": 10,
+    "views": 1560,
+    "likes": 67,
+    "isPublished": true,
+    "seo": {
+      "title": "TypeScript ile Tip Güvenliği ve Daha İyi Kod - Duyguma Blog",
+      "description": "TypeScript kullanarak JavaScript projelerinizde tip güvenliği nasıl sağlanır? TypeScript'in avantajlarını ve pratik kullanım örneklerini keşfedelim.",
+      "keywords": ["typescript", "javascript", "tip güvenliği", "programlama", "frontend"],
+      "ogImage": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop"
+    }
+  }
+]

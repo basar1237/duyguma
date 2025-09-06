@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Web Geliştirme",
+    "slug": "web-gelistirme",
+    "description": "Modern web teknolojileri ve geliştirme teknikleri hakkında yazılar",
+    "color": "#ec4899",
+    "icon": "IconCode",
+    "postCount": 1,
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "name": "Tasarım",
+    "slug": "tasarim",
+    "description": "UI/UX tasarım, CSS framework'leri ve tasarım sistemleri",
+    "color": "#3b82f6",
+    "icon": "IconPalette",
+    "postCount": 1,
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "name": "Programlama",
+    "slug": "programlama",
+    "description": "Programlama dilleri, algoritmalar ve yazılım geliştirme",
+    "color": "#10b981",
+    "icon": "IconBrain",
+    "postCount": 1,
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "name": "Teknoloji",
+    "slug": "teknoloji",
+    "description": "Güncel teknoloji haberleri ve trendler",
+    "color": "#f59e0b",
+    "icon": "IconDeviceLaptop",
+    "postCount": 0,
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "name": "Tutorial",
+    "slug": "tutorial",
+    "description": "Adım adım öğretici yazılar ve rehberler",
+    "color": "#8b5cf6",
+    "icon": "IconBook",
+    "postCount": 0,
+    "isActive": true
+  }
+]
