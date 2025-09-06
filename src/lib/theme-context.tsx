@@ -33,10 +33,10 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
       }
     } else {
       // Sistem temasını kontrol et
-      const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches
+      const systemTheme: 'light' | 'dark' = window.matchMedia('(prefers-color-scheme: dark)').matches
         ? 'dark'
         : 'light';
-      const newTheme = { ...defaultTheme, mode: systemTheme };
+      const newTheme: Theme = { ...defaultTheme, mode: systemTheme };
       setThemeState(newTheme);
       applyTheme(newTheme);
     }
